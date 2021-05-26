@@ -1,0 +1,21 @@
+/* flex container for the contact-me section */
+#container3 {
+    display: flex;
+    padding-top: 1%;
+    padding-bottom: 3%;
+  }
+  #contact-me {
+    flex: 1;
+    border-right: solid 0.25vw rgb(74, 113, 145);
+  }
+  #contact-me-links {
+    flex: 5;
+  }
+  /* formats the contact me section to scale with view width */
+#contact-me-links ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+    font-size: 1.5vw;
+  }

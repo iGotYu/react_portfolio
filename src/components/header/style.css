@@ -1,0 +1,19 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    background-color: rgb(74, 113, 145);
+    color:white;
+    text-decoration: underline solid lightblue 2px;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 30vw;
+    list-style: none;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5vw;
+  }

@@ -1,0 +1,27 @@
+h2 {
+    flex: 1.07;
+    /* border-right: solid 0.25vw darkslategray; */
+  }
+  #about-me {
+    flex: 1.07;
+    border-right: solid 0.25vw rgb(74, 113, 145);
+  }
+  #about-me-info {
+    flex: 4.33;
+  }
+  #about-me-info p {
+    padding: 1% 10%;
+    font-size: 1.5vw;
+  }
+  #container {
+    display: flex;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  #banner {
+    display: flex;
+    width: 100%;
+    background-image: url("../../images/pexels-photo-370799.jpeg");
+    /* background-size: contain; */
+    height: 10vh;
+}
