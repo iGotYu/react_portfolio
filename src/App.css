@@ -1,0 +1,15 @@
+h1 {
+    font-size: 3vw;
+    background-color: lightblue;
+    color: darkslategray;
+  }
+  h2 {
+    color: darkslategray;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 1%;
+    font-size: 3vw;
+  }
+  main {
+    background-color: beige;
+  }
