@@ -51,6 +51,7 @@
     height: 50vw;
     background-image: url("../../images/pokedex.jpg");
     background-size: contain;
+    background-repeat: no-repeat;
   }
   /* formats and moves the text-box used on the projects */
 .text-box {
